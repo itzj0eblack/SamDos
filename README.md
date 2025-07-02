@@ -1,4 +1,8 @@
-This is a basic DoS (Denial of Service) script written in Python. It creates multiple threads that send repeated HTTP requests to a target IP or domain, simulating a simple DoS attack.
+
+# Basic DoS (Denial of Service) script written in Python.
+
+ 
+ It creates multiple threads that send repeated HTTP requests to a target IP or domain, simulating a simple DoS attack.
 
 📦 Features
 	•	Sends HTTP GET requests to a target
@@ -7,7 +11,7 @@ This is a basic DoS (Denial of Service) script written in Python. It creates mul
 	•	Real-time stats using the rich library (packets sent, errors, etc.)
 	•	Works on Linux, macOS, and Windows with Python 3
 
-⸻
+
 
 ⚙️ Requirements
 	•	Python 3
